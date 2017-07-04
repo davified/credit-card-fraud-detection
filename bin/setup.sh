@@ -18,10 +18,3 @@ source .venv/bin/activate
 
 pip3 install -r requirements.txt
 
-echo "Downloading data from Kaggle"
-cd data 
-curl -sS https://www.kaggle.com/dalpozz/creditcardfraud/downloads/creditcard.csv.zip > creditcard.zip
-7z e creditcard.zip
-rm creditcard.zip
-
-echo "DONE"
