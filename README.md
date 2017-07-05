@@ -20,9 +20,11 @@ For the hands-on workshop, please use the `credit-card-fraud-detection.ipynb` no
 		- sklearn
 		- imbalanced-learn
 
+	- Download the data zip file from Kaggle
+
 3. Manually unzip creditcardfraud.zip in your Finder
 
-4. source .venv/bin/activate
+4. Activate the virtual environment `source .venv/bin/activate`
 
 5. Start the notebook: `jupyter notebook` (if you're not familiar with jupyter notebook, it's just an IDE. You can refer to the [cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/))
 
