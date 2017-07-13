@@ -20,8 +20,6 @@ For the hands-on workshop, please use the `credit-card-fraud-detection.ipynb` no
 		- sklearn
 		- imbalanced-learn
 
-	- Download the data zip file from Kaggle
-
 3. Manually unzip creditcardfraud.zip in your Finder
 
 4. Activate the virtual environment `source .venv/bin/activate`
