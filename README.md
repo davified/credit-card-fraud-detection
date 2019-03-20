@@ -26,3 +26,6 @@ For the hands-on workshop, please use the `credit-card-fraud-detection.ipynb` no
 
 5. Start the notebook: `jupyter notebook` (if you're not familiar with jupyter notebook, it's just an IDE. You can refer to the [cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/))
 
+## Acknowledgements
+
+The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection. More details on current and past projects on related topics are available on https://www.researchgate.net/project/Fraud-detection-5 and the page of the DefeatFraud project. See more here: https://www.kaggle.com/mlg-ulb/creditcardfraud
